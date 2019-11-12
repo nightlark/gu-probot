@@ -9,4 +9,4 @@ size: true
 # List of users or teams to @mention to help triage
 # Set to 'false' to disable
 mention:
-  - octocat
+  - nightlark
